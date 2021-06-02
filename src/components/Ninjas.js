@@ -8,6 +8,8 @@ class Ninjas extends Component {
                 <div>  Name:{this.props.name}</div>
                 <div>  Age: {this.props.age}</div>
                 <div>  State: {this.props.state}</div>
+                <div>  State: {this.props.state}</div>
+
             </div>
         )
     }
